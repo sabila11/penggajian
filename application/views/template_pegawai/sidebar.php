@@ -64,7 +64,7 @@
             <i class="fa fa-bars"></i>
           </button>
 
-          <h4 class="font-weight-bold">PT. Kelompok SABIL</h4>
+          <h4 class="font-weight-bold">PT. Unikom Kelompok Full Cewek</h4>
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">
