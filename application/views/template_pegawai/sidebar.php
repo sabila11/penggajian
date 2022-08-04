@@ -64,7 +64,7 @@
             <i class="fa fa-bars"></i>
           </button>
 
-          <h4 class="font-weight-bold">PT. Mencari Cinta Sejati</h4>
+          <h4 class="font-weight-bold">PT. Sikok Bagi Duo </h4>
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">

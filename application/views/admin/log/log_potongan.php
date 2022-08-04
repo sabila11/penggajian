@@ -6,8 +6,8 @@
          <thead class="thead-dark">
            <tr>
               <th class="text-center">No</th>
-              <th class="text-center">Potongan Dulu</th>
-              <th class="text-center">Potongan Baru</th>
+              <th class="text-center">Nama Potongan Dulu</th>
+              <th class="text-center">Nama Potongan Baru</th>
               <th class="text-center">Jumlah Potongan Dulu</th>
               <th class="text-center">Jumlah Potongan Baru</th>
            </tr>
@@ -18,12 +18,9 @@
               <td class="text-center"><?php echo $no++ ?></td>
               <td class="text-center"><?php echo $p->potongan_dulu ?></td>
               <td class="text-center"><?php echo $p->potongan_baru ?></td>
-              <td class="text-center"><?php echo $p->jumlah_potongan_dulu ?></td>
-              <td class="text-center"><?php echo $p->jumlah_potongan_baru ?></td>
-              <?php if($p->log_potongan_gaji) { ?>
-                <?php } else { ?>
-                <?php } ?>
-
+              <td class="text-center"><?php echo $p->jml_potongan_dulu ?></td>
+              <td class="text-center"><?php echo $p->jml_potongan_baru ?></td>
+              
             </tr>
           <?php endforeach; ?>
          </tbody>

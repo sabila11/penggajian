@@ -14,7 +14,7 @@
            </tr>
          </thead>
          <tbody>
-           <?php $no=1; foreach($log as $p) : ?>
+           <?php $no=1; foreach($jabatan as $p) : ?>
             <tr>
               <td class="text-center"><?php echo $no++ ?></td>
               <td class="text-center"><?php echo $p->id_jabatan ?></td>
@@ -22,9 +22,7 @@
               <td class="text-center"><?php echo $p->gaji_update ?></td>
               <td class="text-center"><?php echo $p->tj_transport_update ?></td>
               <td class="text-center"><?php echo $p->uang_makan_update ?></td>
-              <?php if($p->log_jabatan) { ?>
-                <?php } else { ?>
-                <?php } ?>
+             
               
             </tr>
           <?php endforeach; ?>

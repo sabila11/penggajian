@@ -22,9 +22,7 @@
               <td class="text-center"><?php echo $p->username ?></td>
               <td class="text-center"><?php echo $p->password_dulu ?></td>
               <td class="text-center"><?php echo $p->password_baru ?></td>
-              <?php if($p->log_ganti_pass) { ?>
-                <?php } else { ?>
-                <?php } ?>
+
               
             </tr>
           <?php endforeach; ?>

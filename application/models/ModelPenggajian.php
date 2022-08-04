@@ -41,6 +41,8 @@ class ModelPenggajian extends CI_model{
 			return FALSE;
 		}
 	}
+
 }
+
 
 ?>

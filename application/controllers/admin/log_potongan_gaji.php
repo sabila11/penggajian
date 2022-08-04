@@ -19,7 +19,7 @@ class log_potongan_gaji extends CI_Controller {
 	public function index()
 	{
 		$data['title'] = "Log Password";
-		$data['log_potongan'] = $this->ModelPenggajian->get_data('log_potongan_gaji')->result();
+		$data['log'] = $this->ModelPenggajian->get_data('log_potongan_gaji')->result();
 
 		$this->load->view('template_admin/header', $data);
 		$this->load->view('template_admin/sidebar');
