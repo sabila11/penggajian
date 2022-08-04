@@ -65,6 +65,21 @@
         </div>
       </li>
 
+      <!-- Nav Item - Pages Collapse LOG -->
+      <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages2" aria-expanded="true" aria-controls="collapsePages2">
+          <i class="fas fa-fw fa-eye"></i>
+          <span>Log</span>
+        </a>
+        <div id="collapsePages2" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <a class="collapse-item" href="<?php echo base_url('admin/log_ubah_password') ?>">Log Password</a>
+            <a class="collapse-item" href="<?php echo base_url('admin/log_jabatan') ?>">Log Jabatan</a>
+            <a class="collapse-item" href="<?php echo base_url('admin/log_potongan_gaji') ?>">Log Potongan Gaji</a>
+          </div>
+        </div>
+      </li>
+
       <!-- Nav Item - Charts -->
       <li class="nav-item">
         <a class="nav-link" href="<?php echo base_url('ganti_password') ?>">
@@ -101,7 +116,7 @@
             <i class="fa fa-bars"></i>
           </button>
 
-          <h4 class="font-weight-bold">PT. Unikom Kelompok Full Cewek</h4>
+          <h4 class="font-weight-bold">PT. Unikom Kelompok Full Ceweka</h4>
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">

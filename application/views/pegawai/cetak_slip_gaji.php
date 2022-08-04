@@ -11,7 +11,7 @@
 </head>
 <body>
 	<center>
-		<h1>PT. Unikom Kelompok Full Cewek</h1>
+		<h1>PT. Unikom Kelompok Full Ceweka</h1>
 		<h2>Daftar Gaji Pegawai</h2>
 		<hr style="width: 50%; border-width: 5px; color: black">
 	</center>
@@ -100,7 +100,7 @@
 			</td>
 
 			<td width="200px">
-				<p>Bandung, <?php echo date("d M Y")?> <br> Finance,</p>
+				<p>Yogyakarta, <?php echo date("d M Y")?> <br> Finance,</p>
 				<br>
 				<br>
 				<p>___________________</p>

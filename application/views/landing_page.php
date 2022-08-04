@@ -57,7 +57,7 @@
                         <div>
                            <h2><b><i>Penggajian Karyawan</i></b></h2>
                         </div>
-                        <p>Selmat datang di aplikasi Sistem Informasi Penggajian Karyawan <br>PT. Unikom Kelompok Full Cewek</p>
+                        <p>Selmat datang di aplikasi Sistem Informasi Penggajian Karyawan <br>PT. Unikom Kelompok Full Ceweka</p>
                      </div>
                   </div>
                   <div class="col headerImg" style="background-image: url('<?php echo base_url()?>assets/img/uangg.svg');"></div>
@@ -80,7 +80,7 @@
                <p></p>
                <p></p>
                <div class="subHeading">
-                  Berikut informasi lebih lengkap tentang website <br>informasi penggajian karyawan PT. Unikom Kelompok Full Cewek</div>
+                  Berikut informasi lebih lengkap tentang website <br>informasi penggajian karyawan PT. Unikom Kelompok Full Ceweka</div>
             </div>
 
             <script src="<?php echo base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
@@ -236,7 +236,7 @@
                         </div>
                         <div class="TeamInfo text-center">
                            <div class="Name">PENGGAJIAN KARYAWAN</div>
-                           <div class="Job">PT. Unikom Kelompok Full Cewek</div>
+                           <div class="Job">PT. Unikom Kelompok Full Ceweka</div>
                            <div class="social_links">
                               <div class="social">
                                  <a class="" href="www.github.com"><i class="fab fa-github" aria-hidden="true"></i></a>
