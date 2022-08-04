@@ -37,10 +37,10 @@
                         <a class="nav-link" href="#Home">Home</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="#Tentang">Informassi</a>
+                        <a class="nav-link" href="#Tentang">Informasi</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="#AboutMe">About Me</a>
+                        <a class="nav-link" href="#AboutMe">About Us</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="<?php echo base_url('login');?>">Login</a>
@@ -57,7 +57,7 @@
                         <div>
                            <h2><b><i>Penggajian Karyawan</i></b></h2>
                         </div>
-                        <p>Selmat datang di aplikasi Sistem Informasi Penggajian Karyawan <br>PT. Sikok Bagi Duo </p>
+                        <p>Selamat Datang di Aplikasi Penggajian Karyawan <br> PT. Sikok Bagi Duo </p>
                      </div>
                   </div>
                   <div class="col headerImg" style="background-image: url('<?php echo base_url()?>assets/img/uangg.svg');"></div>
@@ -80,7 +80,7 @@
                <p></p>
                <p></p>
                <div class="subHeading">
-                  Berikut informasi lebih lengkap tentang website <br>informasi penggajian karyawan PT. Sikok Bagi Duo </div>
+                  Berikut informasi lebih lengkap tentang website <br> informasi penggajian karyawan PT. Sikok Bagi Duo </div>
             </div>
 
             <script src="<?php echo base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
@@ -113,7 +113,7 @@
                         <div class="body">
                            <div class="title"><font size="4"><b><i>Tentang Website</font></b></i></div>
                            <div id="flip1"><font color="white">Baca Selengkapnya</font></div>
-                           <div id="panel1">aplikasi ini dibuat untuk membantu perusahaan dalam proses penggajian karyawan</div>
+                           <div id="panel1">Aplikasi ini dibuat untuk membantu perusahaan dalam proses penggajian karyawan</div>
                         </div>
                      </div>
                   </div>
@@ -179,7 +179,7 @@
                         <div class="body">
                            <div class="title"><font size="4"><b><i>Halaman Karyawan</font></b></i></div>
                            <div id="flip3"><font color="white">Baca Selengkapnya</font></div>
-                           <div id="panel3">Halaman karyawan terdapat informasi tentangb karyawan dan cetak slip gaji.</div>
+                           <div id="panel3">Halaman karyawan terdapat informasi tentang karyawan dan cetak slip gaji.</div>
                         </div>
                      </div>
                   </div>
@@ -224,34 +224,85 @@
       <div class="Team" id="AboutMe">
          <div class="Section">
             <div class="text-center">
-               <h2><b>About Me</b></h2>
+               <h2><b>About Us</b></h2>
                <br>
             </div>
             <div class="content">
                <div class="team row">
                   <div class="team-memeber col-md-6 col-lg-4 col-xl-3">
                      <div class="card">
-                        <div class="TopImg">
-                           <img src="<?php echo base_url(); ?>assets/img/logogaji.png" class="rounded-circle w-100 d-block">
-                        </div>
                         <div class="TeamInfo text-center">
-                           <div class="Name">PENGGAJIAN KARYAWAN</div>
-                           <div class="Job">PT. Sikok Bagi Duo </div>
+                           <div class="Name">Salsabila Marhan</div>
+                           <div class="Job">10120272 </div>
                            <div class="social_links">
                               <div class="social">
-                                 <a class="" href="www.github.com"><i class="fab fa-github" aria-hidden="true"></i></a>
+                                 <a class="" href="https://www.github.com/sabila11"><i class="fab fa-github" aria-hidden="true"></i></a>
                               </div>
                               <div class="social">
-                                 <a class="" href="www.instagram.com"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-                              </div>
-                              <div class="social">
-                                 <a class="" href="www.youtube.com"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+                                 <a class="" href="https://www.instagram.com/salsabilamrhn"><i class="fab fa-instagram" aria-hidden="true"></i></a>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
+                  <div class="team-memeber col-md-6 col-lg-4 col-xl-3">
+                     <div class="card">
+                        <div class="TeamInfo text-center">
+                           <div class="Name">Shania Nur Luthfia</div>
+                           <div class="Job">10120262 </div>
+                           <div class="social_links">
+                              <div class="social">
+                                 <a class="" href="https://www.github.com/shanianl140401"><i class="fab fa-github" aria-hidden="true"></i></a>
+                              </div>
+                              <div class="social">
+                                 <a class="" href="https://www.instagram.com/shanialuthfia"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="team-memeber col-md-6 col-lg-4 col-xl-3">
+                     <div class="card">
+                        <div class="TeamInfo text-center">
+                           <div class="Name">Annisa Wulan Sari</div>
+                           <div class="Job">10120266 </div>
+                           <div class="social_links">
+                              <div class="social">
+                                 <a class="" href="https://www.github.com/annisaws27"><i class="fab fa-github" aria-hidden="true"></i></a>
+                              </div>
+                              <div class="social">
+                                 <a class="" href="https://www.instagram.com/annisaws__"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="team-memeber col-md-6 col-lg-4 col-xl-3">
+                     <div class="card">
+                        <div class="TeamInfo text-center">
+                           <div class="Name">Galura Tirtha Salsabila</div>
+                           <div class="Job">10120279 </div>
+                           <div class="social_links">
+                              <div class="social">
+                                 <a class="" href="https://www.github.com/ai."><i class="fab fa-github" aria-hidden="true"></i></a>
+                              </div>
+                              <div class="social">
+                                 <a class="" href="https://www.instagram.com/ggggaluyaa"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                              </div>
+                              
+                           </div>
+                        </div>
+                     </div>
+                  </div>
                </div>
+            </div>
+         </div>
+      </div>
+      <div class="Team" id="AboutMe">
+         <div class="Section">
+            <div class="text-center">
+               <h2>Kelompok "GASS"</h2>
+               <br>
             </div>
          </div>
       </div>
