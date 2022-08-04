@@ -14,7 +14,7 @@
            </tr>
          </thead>
          <tbody>
-           <?php $no=1; foreach($log as $p) : ?>
+           <?php $no=1; foreach($pegawai as $p) : ?>
             <tr>
               <td class="text-center"><?php echo $no++ ?></td>
               <td class="text-center"><?php echo $p->id_pegawai ?></td>
@@ -22,7 +22,6 @@
               <td class="text-center"><?php echo $p->username ?></td>
               <td class="text-center"><?php echo $p->password_dulu ?></td>
               <td class="text-center"><?php echo $p->password_baru ?></td>
-
               
             </tr>
           <?php endforeach; ?>
