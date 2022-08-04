@@ -1,6 +1,6 @@
 <?php
 
-class log_ubah_password extends CI_Controller {
+class log_jabat extends CI_Controller {
 
 	public function __construct(){
 		parent::__construct();
@@ -18,12 +18,12 @@ class log_ubah_password extends CI_Controller {
 	
 	public function index()
 	{
-		$data['title'] = "Log Password";
-		$data['pegawai'] = $this->ModelPenggajian->get_data('log_ganti_pass')->result();
+		$data['title'] = "Log jabatan";
+		$data['jabatan'] = $this->ModelPenggajian->get_data('log_jabatan')->result();
 
 		$this->load->view('template_admin/header', $data);
 		$this->load->view('template_admin/sidebar');
-		$this->load->view('admin/log/log_pass', $data);
+		$this->load->view('admin/log/log_jb', $data);
 		$this->load->view('template_admin/footer');
 	}
 
