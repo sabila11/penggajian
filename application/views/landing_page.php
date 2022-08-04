@@ -57,7 +57,7 @@
                         <div>
                            <h2><b><i>Penggajian Karyawan</i></b></h2>
                         </div>
-                        <p>Selmat datang di aplikasi Sistem Informasi Penggajian Karyawan <br>PT. Unikom Kelompok Full Ceweka</p>
+                        <p>Selmat datang di aplikasi Sistem Informasi Penggajian Karyawan <br>PT. Mencari Cinta Sejati</p>
                      </div>
                   </div>
                   <div class="col headerImg" style="background-image: url('<?php echo base_url()?>assets/img/uangg.svg');"></div>
@@ -80,7 +80,7 @@
                <p></p>
                <p></p>
                <div class="subHeading">
-                  Berikut informasi lebih lengkap tentang website <br>informasi penggajian karyawan PT. Unikom Kelompok Full Ceweka</div>
+                  Berikut informasi lebih lengkap tentang website <br>informasi penggajian karyawan PT. Mencari Cinta Sejati</div>
             </div>
 
             <script src="<?php echo base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
@@ -236,7 +236,7 @@
                         </div>
                         <div class="TeamInfo text-center">
                            <div class="Name">PENGGAJIAN KARYAWAN</div>
-                           <div class="Job">PT. Unikom Kelompok Full Ceweka</div>
+                           <div class="Job">PT. Mencari Cinta Sejati</div>
                            <div class="social_links">
                               <div class="social">
                                  <a class="" href="www.github.com"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -260,7 +260,7 @@
          <div class="container">
             <div class="row">
                <div class="col-12 text-center my-3">
-                  Copyright &copy; Abid Taufiqur Rohman | Penggajian 2022 - All Rights Reserved
+                  Copyright &copy; GASS | Penggajian 2022 - All Rights Reserved
                </div>
             </div>
          </div>

@@ -11,7 +11,7 @@
 </head>
 <body>
 	<center>
-		<h1>PT. Unikom Kelompok Full Ceweka</h1>
+		<h1>PT. Mencari Cinta Sejati</h1>
 		<h2>Laporan Kehadiran Pegawai</h2>
 	</center>
 

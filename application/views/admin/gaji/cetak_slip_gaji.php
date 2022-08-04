@@ -11,7 +11,7 @@
 </head>
 <body>
 	<center>
-		<h1>PT. Unikom Kelompok Full Cewek</h1>
+		<h1>PT. Mencari Cinta Sejati</h1>
 		<h2>Daftar Gaji Pegawai</h2>
 		<hr style="width: 50%; border-width: 5px; color: black">
 	</center>
